@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c23cf5cacbcedf54cb2d291cfe37666f
+timeCreated: 1491130916
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ams Trame
+  fontNames:
+  - Ams Trame
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2da53a9232b0b874990dae40c55ac644, type: 3}
+  - {fileID: 12800000, guid: bcc33a89a985fed42942b96361914800, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

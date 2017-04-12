@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gamezero", "gamezero.csproj", "{EA636AC1-800E-3FC8-9C02-8CEA8F640EA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gamezero.Editor", "gamezero.Editor.csproj", "{253AAABF-5C5D-3BE1-FF42-4486226EC11B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA636AC1-800E-3FC8-9C02-8CEA8F640EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA636AC1-800E-3FC8-9C02-8CEA8F640EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA636AC1-800E-3FC8-9C02-8CEA8F640EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA636AC1-800E-3FC8-9C02-8CEA8F640EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253AAABF-5C5D-3BE1-FF42-4486226EC11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253AAABF-5C5D-3BE1-FF42-4486226EC11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253AAABF-5C5D-3BE1-FF42-4486226EC11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253AAABF-5C5D-3BE1-FF42-4486226EC11B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
